@@ -4,17 +4,17 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+relative_permalinks: 
 
 # Setup
-title:            Linbug
+title:            Jose
 tagline:          'A blog about data science'
 description:      'A blog about transitioning from life science to data science'
 url:              http://linbug.github.io/
 baseurl:          http://linbug.github.io/
 
 author:
-  name:           'Lin Taylor'
+  name:           'Jose Alex'
   url:            http://linbug.github.io/
 
 paginate:         5
