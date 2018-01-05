@@ -24,3 +24,5 @@ paginate:         5
 avatar:           https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 github:           linbug
 
+
+theme: jekyll-theme-cayman
